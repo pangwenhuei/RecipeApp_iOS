@@ -1,0 +1,62 @@
+[
+  {
+    "id": "italian",
+    "name": "Italian",
+    "description": "Traditional Italian cuisine with pasta, pizza, and regional specialties",
+    "imageURL": "https://example.com/italian.jpg"
+  },
+  {
+    "id": "chinese",
+    "name": "Chinese",
+    "description": "Authentic Chinese dishes with diverse regional flavors",
+    "imageURL": "https://example.com/chinese.jpg"
+  },
+  {
+    "id": "mexican",
+    "name": "Mexican",
+    "description": "Spicy and flavorful Mexican cuisine with fresh ingredients",
+    "imageURL": "https://example.com/mexican.jpg"
+  },
+  {
+    "id": "dessert",
+    "name": "Dessert",
+    "description": "Sweet treats and desserts for any occasion",
+    "imageURL": "https://example.com/dessert.jpg"
+  },
+  {
+    "id": "american",
+    "name": "American",
+    "description": "Classic American comfort food and BBQ",
+    "imageURL": "https://example.com/american.jpg"
+  },
+  {
+    "id": "indian",
+    "name": "Indian",
+    "description": "Rich and aromatic Indian curries and dishes",
+    "imageURL": "https://example.com/indian.jpg"
+  },
+  {
+    "id": "japanese",
+    "name": "Japanese",
+    "description": "Fresh sushi, ramen, and traditional Japanese cuisine",
+    "imageURL": "https://example.com/japanese.jpg"
+  },
+  {
+    "id": "vegetarian",
+    "name": "Vegetarian",
+    "description": "Healthy and delicious plant-based meals",
+    "imageURL": "https://example.com/vegetarian.jpg"
+  },
+  {
+    "id": "breakfast",
+    "name": "Breakfast",
+    "description": "Morning meals to start your day right",
+    "imageURL": "https://example.com/breakfast.jpg"
+  },
+  {
+    "id": "seafood",
+    "name": "Seafood",
+    "description": "Fresh fish and seafood dishes",
+    "imageURL": "https://example.com/seafood.jpg"
+  }
+]
